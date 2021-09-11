@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aa9f4c5f4b259be47bb8f1a2c463a004
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocketThrust: {instanceID: 0}
+  - SoundBgm: {fileID: 8300000, guid: 22100671e40565345b0184d8edbc6521, type: 3}
+  - pauseMenu: {instanceID: 0}
+  - rocketThrustParticles: {instanceID: 0}
+  - leftThrustParticles: {instanceID: 0}
+  - rightThrustParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

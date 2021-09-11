@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cdcaff970950ca047af159d78e988eb8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Prospekt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 661097e194a9ad54eba93a2c7d9d9dd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
